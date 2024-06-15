@@ -1,0 +1,38 @@
+.color1 { background-color: #25e14f; }
+.color2 { background-color: #46e968; }
+.color3 { background-color: #68f081; }
+.color4 { background-color: #89f899; }
+.color5 { background-color: #aaffb2; }
+
+.margin-gap{
+  margin: 15px;
+}
+
+.nav-tittle {
+  color: white !important;
+  text-decoration:none !important; 
+  font-family: "Poetsen One", sans-serif !important;
+  font-size: 45px;
+}
+
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bg-custom{
+  background-color: #25e14f;
+}
+.nav-link{
+  color: white !important;
+  font-size: larger;
+}
+.padding-top{
+  padding: 5px !important;
+}
+
+.rounded-bottom{
+  border-bottom-right-radius: 18px !important;
+  border-bottom-left-radius: 18px !important;
+}
